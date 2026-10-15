@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hola, soy Jaime Marcelo Villacrés
+# 👋 Hola, soy Jaime Marcelo Villacrés Espín
 
 ### Ingeniero en Tecnologías de la Información | Backend Developer
 
 Desarrollo aplicaciones web, APIs RESTful y soluciones basadas en bases de datos.
 
-📍 Ecuador · 💻 Python, FastAPI y PostgreSQL
+📍 Ecuador - Ambato · 💻 Python, FastAPI y PostgreSQL
 
 </div>
 
